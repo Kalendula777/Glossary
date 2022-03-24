@@ -4,7 +4,7 @@
 title = Glossary
 
 # (str) Package name
-package.name = Glossary
+package.name = glossary
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.wiseplat
